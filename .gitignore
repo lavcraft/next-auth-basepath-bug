@@ -105,6 +105,7 @@ dist
 
 .vercel
 .now
-.env.local
 
 .DS_Store
+
+.idea
